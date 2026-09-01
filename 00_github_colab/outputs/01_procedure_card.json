@@ -1,0 +1,6 @@
+{
+  "goal": "Sprawdzenie czy etykietowanie mówców jest jednoznaczne i stabilne",
+  "observable_result": "Każdy mówca ma przyporządkowaną etykietę: Moderator lub Respondent.",
+  "automatic_checks": "Etykiety mówców są przyporządkowane automatycznie. ",
+  "researcher_decision": "Niejednoznaczna etykieta otrzymuje needs_review; jej interpretację rozstrzyga badacz."
+}
